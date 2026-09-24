@@ -338,4 +338,4 @@ I'm especially interested in problems where **technology, marketing, data, and o
 
 ---
 
-> *Find the bottleneck. Build the system. Measure the result.**
+> **Find the bottleneck. Build the system. Measure the result.**
